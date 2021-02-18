@@ -2,6 +2,6 @@ import os
 
 
 class my:
-    BOT_TOKEN = os.environ["BOT_TOKEN"]
-    API_ID = int(os.environ["API_ID"])
-    API_HASH = os.environ["API_HASH"]
+    BOT_TOKEN = "1598555492:AAE0P8J87x1ZH8-_9ZdwIqW6qdPM5xl9yKU"
+    API_ID = "2499500"
+    API_HASH = "1b3e46ced284051a6439e234eac703a7"
